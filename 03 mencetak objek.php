@@ -7,7 +7,7 @@ public $nama;
     $this->warna = $warna;
   }
 }
-$nasipadang = new makanan("nasi padang", "nasi tumpeng");
+$nasipadang = new makanan("nasi padangg", "nasi tumpeng");
 $nasipadang = new makanan ("masi padang", "nasi tumpeng");
 print_r($nasipadang);
 print "<p>";
