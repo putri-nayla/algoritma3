@@ -10,6 +10,6 @@ if($umur > 18){
         echo "Selamat datang wahai pemuda!";
     }
 } else {
-    echo "Maaf toko hanya terbuka untuk yang sudah 16+";
+    echo "Maaf toko hanya terbuka untuk yang sudah berumur 16+";
 }
 ?>
